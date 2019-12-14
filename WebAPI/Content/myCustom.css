@@ -1,0 +1,34 @@
+﻿#bg {
+    background-image: url("../Images/Clouds.jpg");
+    background-repeat: no-repeat;
+    background-size: 110em;
+}
+#jumbo {
+    color: ghostwhite;
+    background: none;
+    font-family: Britannic;
+    margin-left: 25px;
+}
+.swagger-section .swagger-ui-wrap {
+    font-family: Britannic;
+}
+.swagger-section #api_selector {
+    display: none;
+}
+.swagger-section .swagger-ui-wrap ul#resources li.resource div.heading h2 {
+    font-family: Britannic;
+}
+.swagger-section #header #logo .logo__img {
+    display: none;
+}
+.swagger-section #header {
+    background: black
+}
+/*body {
+    background-image: url("../Images/Sky.jpg")
+}*/
+/*.swagger-section #api_selector {
+    display: none;
+    clear: none;
+    float: right;
+}*/
